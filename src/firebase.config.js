@@ -1,9 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBWV7tIDNibf0VLUphuAlaCu59JHaFxKx4",
-  authDomain: "transport-service-bfe74.firebaseapp.com",
-  projectId: "transport-service-bfe74",
-  storageBucket: "transport-service-bfe74.appspot.com",
-  messagingSenderId: "123896940293",
-  appId: "1:123896940293:web:b1642eda29b5389bc2196c"
+  apiKey: "AIzaSyCAuD0JJoS5xBMgAhDDS-z4nEyozomM2WU",
+  authDomain: "react-auth-4e60a.firebaseapp.com",
+  projectId: "react-auth-4e60a",
+  storageBucket: "react-auth-4e60a.appspot.com",
+  messagingSenderId: "453453034661",
+  appId: "1:453453034661:web:7e98a5184a473ea444894c",
+  measurementId: "G-JMVTCR5ESR"
 };
 export default firebaseConfig;
